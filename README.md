@@ -1,7 +1,7 @@
 # crow-cpp
 
 ## Introduccion
-Este proyecto se realizo con la intencion de ver la capacidad que utiliza c++ en parte web.
+Este proyecto se realizo con la intencion de ver la capacidad que utiliza c++ en parte web y como ha cambiado su derrollo a travez del tiempo. Asi como mirar que tan facil o dificil es. 
 
 ## Objetivos
 - Escribir una App con C++, Crow, Cmake, MongoDB, Javascript, HTML.
