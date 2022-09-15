@@ -30,3 +30,10 @@ cmake ..
 make
 sudo bash ./compile.sh
 ```
+- se realizaron una API asi como request y response desde el backend con mongodb.
+
+## Images e Demo
+![Screenshot from 2022-09-15 10-34-11](https://user-images.githubusercontent.com/19938780/190447868-f5eb5d73-4735-46a7-a4db-1fba3569b42b.png)
+
+## Demostracion de websocket
+[Screencast from 15-09-22 10:37:40.webm](https://user-images.githubusercontent.com/19938780/190448016-406d82b5-ebbd-48a8-878c-c0f0c66417a1.webm)
