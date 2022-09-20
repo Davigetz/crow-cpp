@@ -37,3 +37,8 @@ sudo bash ./compile.sh
 
 ## Demostracion de websocket
 [Screencast from 15-09-22 10:37:40.webm](https://user-images.githubusercontent.com/19938780/190448016-406d82b5-ebbd-48a8-878c-c0f0c66417a1.webm)
+
+## Sacado del curso:
+[Web Servers and APIs using C++](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/why-use-c-plus-plus-to-make-a-website?autoplay=true&resume=false)
+## agradecimiento a:
+[Troy Miles](https://www.linkedin.com/in/troy-miles-7516321/?trk=lil_instructor)
